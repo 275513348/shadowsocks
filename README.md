@@ -30,7 +30,7 @@ English：[Shadowsocks Setup Guide (iOS)](4-ios-setup-guide-en.md)
 
 简体中文： [Linux 下安装配置 Shadowsocks 使用教程](6-linux-setup-guide-cn.md)
 
-## 7 浏览器设置教程
+## 7 浏览器设置教程000000
 
 简体中文：
 - [Firefox Quantum 设置教程 (Proxy SwitchyOmega)](7-1-firefox-setup-guide-cn.md)
